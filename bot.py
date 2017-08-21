@@ -1,3 +1,5 @@
+import requests
+
 url = "https://api.telegram.org/bot<334983253:AAFVY6KOfZGr0cACB1Z-czxDCkkfxjT0KQo>/"
  
  
